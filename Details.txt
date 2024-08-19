@@ -1,0 +1,9 @@
+MySQL- Day -1 : Database - MySQL
+
+SQLBOLT Task Completion Details
+
+Overview :
+
+This document provides details about the SQLBOLT task completed on Day 1 as part of the MySQL database practice.
+
+The screenshot is availble on Task.png folder
